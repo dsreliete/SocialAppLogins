@@ -1,5 +1,5 @@
 ## Social App
-This repo contains an app test, created to learn about social logins
+This repo contains an app test, created to learn about social logins. It was fetch information account from twitterApi, graphApi and GoogleSignInApi through respective login.
 
 ## Instalation 
 Download this repo and import the project using Android Studio IDE. This app works at smartphones with Android API 15 above
