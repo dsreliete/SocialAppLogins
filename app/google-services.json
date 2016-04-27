@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "social-logins-30658",
+    "project_number": "437084642057",
+    "name": "Social Logins"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437084642057:android:c6ebc6abbb81b53f",
+        "client_id": "android:com.socialapp.login",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.socialapp.login",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437084642057-mlphp8ckd7rakq8hajb6m33aooe2kt7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialapp.login",
+            "certificate_hash": "8C54A299D746F52BF946F5F4D33F461A8A6945B8"
+          }
+        },
+        {
+          "client_id": "437084642057-sgv1h8lbtl12ahdchnn7i4h62r24sflb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
